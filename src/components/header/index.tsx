@@ -23,7 +23,7 @@ export function Header(){
                    Games
                 </Link>
               
-                <Link href="/">
+                <Link href="/profile">
                    Perfil
                 </Link>
             </nav>
